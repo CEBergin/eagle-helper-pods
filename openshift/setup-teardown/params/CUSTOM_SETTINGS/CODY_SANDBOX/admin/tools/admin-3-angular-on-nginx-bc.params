@@ -1,0 +1,3 @@
+NAME=cody-sandbox-admin
+ANGULAR_BUILDER_IMAGE=cody-sandbox-admin-angular-builder
+NGINX_RUNTIME_IMAGE=cody-sandbox-admin-nginx-runtime

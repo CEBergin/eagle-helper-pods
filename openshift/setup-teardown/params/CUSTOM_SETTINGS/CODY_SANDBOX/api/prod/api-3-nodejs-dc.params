@@ -1,0 +1,9 @@
+NAME=cody-sandbox-api
+GROUP_NAME=cody-sandbox-epic
+APPLICATION_DOMAIN=cody-sandbox-mem-mmti-prod.pathfinder.gov.bc.ca
+MINIO_HOST=cody-sandbox-api-minio-mem-mmti-prod.pathfinder.gov.bc.ca
+MINIO_SECRET_NAME=cody-sandbox-api-minio-keys
+DATABASE_SERVICE_NAME=cody-sandbox-api-mongodb
+APP_IMAGE_NAME=cody-sandbox-api
+APP_IMAGE_NAMESPACE=mem-mmti-prod
+APP_DEPLOYMENT_TAG=prod

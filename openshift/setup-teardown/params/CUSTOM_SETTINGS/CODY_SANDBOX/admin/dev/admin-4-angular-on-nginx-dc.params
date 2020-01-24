@@ -1,0 +1,7 @@
+NAME=cody-sandbox-admin
+GROUP_NAME=cody-sandbox-epic
+IMAGE_NAMESPACE=mem-mmti-tools
+APPLICATION_DOMAIN=cody-sandbox-mem-mmti-dev.pathfinder.gov.bc.ca
+TAG_NAME=dev
+REMOTE_API_PATH=https://cody-sandbox-mem-mmti-dev.pathfinder.gov.bc.ca/api
+REMOTE_PUBLIC_PATH=https://cody-sandbox-mem-mmti-dev.pathfinder.gov.bc.ca
