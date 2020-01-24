@@ -164,7 +164,9 @@ deployPublic $(<${PUBLIC_ARGS_FILE});
 # Typically your-target-env is one of [dev, test, prod]
 
 ###################################################### SNIP #######################################################
-#oc tag your-tools-namespace/your-app-name-api:latest your-tools-namespace/your-app-name-api:your-target-env
-#oc tag your-tools-namespace/your-app-name-public:latest your-tools-namespace/your-app-name-public:your-target-env
-#oc tag your-tools-namespace/your-app-name-admin:latest your-tools-namespace/your-app-name-admin:your-target-env
+###################################################### SNIP #######################################################
+#oc tag mem-mmti-prod/cody-sandbox-api:latest mem-mmti-prod/cody-sandbox-api:prod
+#oc tag mem-mmti-prod/cody-sandbox-public:latest mem-mmti-prod/cody-sandbox-public:prod
+#oc tag mem-mmti-prod/cody-sandbox-admin:latest mem-mmti-prod/cody-sandbox-admin:prod
+#################################################### END SNIP #####################################################
 #################################################### END SNIP #####################################################
